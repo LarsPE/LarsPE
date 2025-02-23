@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarsPE
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python and C
 - Electronic engineer. Programming just for fun
 
 <!---
